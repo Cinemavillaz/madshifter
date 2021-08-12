@@ -24,6 +24,6 @@ https://t.me/joinchat/n2_vPoGuwig3ZGY1</b>
 """
     
     ABOUT_TEXT = """
-Nothing Great About Me!!... 
+എന്നെക്കുറിച്ചു ഒന്നും പറയാൻ ഇല്ലടാ!!... 
 
 """
