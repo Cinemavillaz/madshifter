@@ -37,11 +37,11 @@
 
 ### Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cinemavillaz/jokermon-repo-v2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Cinemavillaz/cf)
 
 
 ## Configs
-
+I
 APP.ID & API.HASH :- [![API](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/MT_MyTelegramOrg_Bot)
 
 AUTH_USERS :- [![ID](https://img.shields.io/badge/Click-Here-red?style=flat&logo=telegram)](https://telegram.dog/MissRose_bot)
