@@ -204,10 +204,9 @@ async def auto_filter(bot, update):
         reply_markup = InlineKeyboardMarkup(result[0])
 
         try:
-           await bot.send_photo(
+           await bot.send_message(
                 chat_id=update.chat.id,
-                photo="https://telegra.ph/file/4317e694b1a2175dd9d1a.jpg",
-                                caption=f"<b>Found {(len_results)} Results For Your Query: {query} \n\nതാങ്കൾക്ക് കിട്ടിയ ഈ ഫിൽറ്റർ മെസ്സേജ് കാലാവധി വെറും 1 ദിവസം മാത്രം ❕️</b>",
+                text=f"<b>Found {(len_results)} Results For Your Query: {query} \n\nതാങ്കൾക്ക് കിട്ടിയ ഈ ഫിൽറ്റർ മെസ്സേജ് കാലാവധി വെറും 1 ദിവസം മാത്രം ❕️</b>",
                 reply_markup=reply_markup,
                 parse_mode="html",
                 reply_to_message_id=update.message_id
